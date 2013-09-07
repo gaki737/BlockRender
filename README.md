@@ -1,4 +1,0 @@
-BlockRender
-===========
-
-My Voxel Engine
