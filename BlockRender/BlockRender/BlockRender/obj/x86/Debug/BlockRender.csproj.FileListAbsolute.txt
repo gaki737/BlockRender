@@ -1,0 +1,7 @@
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\bin\x86\Debug\Content\block.xnb
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\bin\x86\Debug\BlockRender.exe
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\bin\x86\Debug\BlockRender.pdb
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\obj\x86\Debug\BlockRender.csprojResolveAssemblyReference.cache
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\obj\x86\Debug\BlockRender.exe
+c:\users\pascal\documents\visual studio 2012\Projects\BlockRender\BlockRender\BlockRender\obj\x86\Debug\BlockRender.pdb
